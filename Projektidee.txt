@@ -1,0 +1,9 @@
+Das Programm tut die Aufgabe "Online Bestellung".
+
+Zuerst gibt es auf dem Display die Wörter: Menü 1, Menü 2
+
+Die NutzerInnen wählen und klicken auf eine der beiden, dann werden die Gerichte angezeigt. 
+
+Die NutzerInnen klicken auf "Bestellen", dann füllen das Formular (z.B: Name, Addresse, Tel-Nummer...) aus.
+
+Wenn die NutzerInnen fertig mit der Eingabe sind, wird der Text "Ihre Bestellung wurde erfolgreich gespeichert" ausgedruckt.
