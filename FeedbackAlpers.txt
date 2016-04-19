@@ -1,0 +1,9 @@
+Leider ist dieses Repository leer. Wollen Sie wirklich am Projekt teilnehmen? Dann setzen Sie bitte die Vorgaben aus Kap. 5 um.
+
+===========Nachricht von LanPhuongNguyen========
+Ich habe meine Projektidee vor 18 Tagen in Git schon hochladet. 
+Wegen meinem Missverstaendnis habe ich in die Datei in einem neuen Brand zugeordnet, nicht im Brand "master". 
+Daraufhin sehen Sie meine Idee nicht. Ich habe die Aufgabe rechtzeitig abgegeben, aber faelschlicherweise. 
+Das ist mein Fehler und ich entchuldige mich bei Ihnen darueber. Ich habe meine Datei noch mal im Brand master hochladet. 
+Bitte ueberpruefen Sie noch mal und geben Sie mir ein Feedback.
+Ich biete Sie um Verstaendnis und danke im Voraus.
