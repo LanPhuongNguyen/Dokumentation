@@ -1,3 +1,7 @@
+===============================================
+=== Projektidee LanPhuongNguyen, 2016-04-.. ===
+===============================================
+
 Das Programm tut die Aufgabe "Online Bestellung".
 
 Zuerst gibt es auf dem Display die Wörter: Menü 1, Menü 2
@@ -7,3 +11,27 @@ Die NutzerInnen wählen und klicken auf eine der beiden, dann werden die Gerichte
 Die NutzerInnen klicken auf "Bestellen", dann füllen das Formular (z.B: Name, Addresse, Tel-Nummer...) aus.
 
 Wenn die NutzerInnen fertig mit der Eingabe sind, wird der Text "Ihre Bestellung wurde erfolgreich gespeichert" ausgedruckt.
+
+===================================
+=== Feedback Alpers, 2016-05-17 ===
+===================================
+
+Zunächst ein formaler Hinweis: In der Aufgabenbeschreibung war gefordert, dass diese Datei im Verzeichnis DokumentationIhres Repositories befinden soll. Sie haben dagegen das Repository mit dem Namen Dokumentation versehen. Jetzt müssen Sie also im Repository noch eine Verzeichnis Dokumentation erstellen, in das Sie die Beschreibung verschieben.
+
+Damit jetzt zum eigentlichen Feedback für Ihre Beschreibung:
+
+Leider ist das keine gute Projektidee im Sinne der Aufgabenstellung. Sie sollten sich ja eine interaktive webbasierte Anwendung überlegen, die Sie gerne hätten, also etwas, das es noch nicht gibt. Denn in der Projektarbeit sollen Sie lernen, selbständig eine Lösung für ein umfangreiches Problem zu entwickeln, bei dem Sie zumindest in Teilen nicht auf fremde Lösungen zurück greifen können.
+
+Im Gegensatz dazu ist Ihr Vorschlag ein Webshop, also etwas, was in sehr vielen Tutorials detailiert beschrieben wird.
+
+Damit Sie eine Grundlage haben, lesen Sie sich bitte die Beschreibung zum Spiel Khronos auf http://www.brettspiele-report.de/khronos/ durch und nutzen Sie diese, um eine eigene Projektbeschreibung für eine webbasierte und interaktive Anwendung zu erstellen. Arbeiten Sie dann damit weiter. Die nächsten Aufgabenschritte habe ich ja bereits über den EMIL-Lernraum herumgeschickt.
+
+Wichtig: Bitte missverstehen Sie diese Aufgabe nicht: Es geht nicht darum, dass Sie das Brettspiel in ein Computerspiel übertragen, sondern es geht zunächst darum, dass Sie basierend auf dem Brettspiel eine interaktive webbasierte Anwendung konzipieren.
+
+Wertung 2: Projektbeschreibung: gesamt: 2 / 10
+- Pro Interaktionsmöglichkeit: 0 
+- Knappe aber klare Beschreibung: 2
+- Werbeslogans u.ä.: 0 
+- Designaspekte: 0 
+- Voraussetzung bekannten Wissens: 0 
+(Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
